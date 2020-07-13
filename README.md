@@ -1,4 +1,4 @@
-# Potfoleo
+# Portfolio
 
 절대 강좌 따라하기 
 https://github.com/qdr123/shooting.git
